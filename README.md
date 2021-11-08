@@ -20,4 +20,8 @@
 ![PerfectPixel](https://img.shields.io/badge/-PerfectPixel-090909?style=for-the-badge&logo=PerfectPixel&logoColor=47C5FB)
 ![DOM](https://img.shields.io/badge/-DOM-090909?style=for-the-badge&logo=DOM&logoColor=47C5FB)
 
-соц сети
+### Follow me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.facebook.com/profile.php?id=100006475123020)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=47C5FB)](https://www.instagram.com/8_mari_a/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)](https://t.me/viannat)
