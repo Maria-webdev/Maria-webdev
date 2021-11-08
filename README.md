@@ -1,4 +1,4 @@
-[!(https://github.com/Maria-webdev/Maria-webdev/blob/main/assets/icons8-github-500.png)](https://github.com/Maria-webdev)
+[![Header](https://github.com/Maria-webdev/Maria-webdev/blob/main/assets/icons8-github-500.png)](https://github.com/Maria-webdev)
 
 About me
 
