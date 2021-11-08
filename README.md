@@ -22,6 +22,6 @@
 
 ### Follow me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.facebook.com/profile.php?id=100006475123020)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=47C5FB)](https://www.instagram.com/8_mari_a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.instagram.com/8_mari_a/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=47C5FB)](https://www.facebook.com/profile.php?id=100006475123020)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=47C5FB)](https://t.me/viannat)
