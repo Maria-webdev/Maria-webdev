@@ -21,5 +21,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=00FFFF)](https://www.facebook.com/profile.php?id=100006475123020)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=00FFFF)](https://t.me/viannat)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-webdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria-webdev)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-webdev)](https://github.com/anuraghazra/github-readme-stats)
+
 
